@@ -315,7 +315,7 @@ $System_Config['zfbjk_pid']='';
 $System_Config['zfbjk_key']='';
 $System_Config['zfbjk_qrcodeurl']='http://www.website.com/alipay.jpg';
 
-#alipay,f2fpay ---> https://91vps.club/2017/06/09/alipay_f2f_ss_panel_mod/
+#alipay,f2fpay ---> https://website.com
 $System_Config['f2fpay_app_id']='';
 $System_Config['f2fpay_p_id']='';
 $System_Config['alipay_public_key']='';
